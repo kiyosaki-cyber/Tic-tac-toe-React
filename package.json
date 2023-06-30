@@ -1,7 +1,7 @@
 {
   "name": "tictactoe",
   "version": "0.1.0",
-  "homepage":"https://kiyosaki-cyber/tictactoe",
+  "homepage":"https://kiyosaki-cyber.github.io/Tic-tac-toe-React",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
